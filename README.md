@@ -15,8 +15,8 @@ One file per day (Currently trying every Monday to Thursday, may vary). Each fil
 ## Progress
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 01 | Variables, data types, input/print | ✅ |
-| Day 02 | Strings, f-strings, string methods | ✅ |
+| Day 01 | Variables, data types, input/print |  |
+| Day 02 | Strings, f-strings, string methods |   |
 
 ## Author
 Daniel Nicolas Graña Barcala - Hamburg, Germany
